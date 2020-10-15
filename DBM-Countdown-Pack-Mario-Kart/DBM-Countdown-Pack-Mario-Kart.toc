@@ -1,11 +1,11 @@
-﻿## Interface: 80300
+﻿## Interface: 90001
 ## X-Min-Interface: 70200
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0 Mario-Kart|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Alniarez@Silvermoon-EU
 ## Notes: Mario Kart 64 countdown.
-## Version: 1.2
+## Version: 1.5
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPMarioKart
 CountLoadList.lua
