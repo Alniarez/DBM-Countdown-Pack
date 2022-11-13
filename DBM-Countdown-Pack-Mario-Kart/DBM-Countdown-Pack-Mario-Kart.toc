@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 100000
 ## X-Min-Interface: 70200
 ## Title:|cffffe00a<|r|cffff7d0aDBM Countdown|r|cffffe00a>|r |cff69ccf0 Mario-Kart|r
 ## DefaultState: enabled
