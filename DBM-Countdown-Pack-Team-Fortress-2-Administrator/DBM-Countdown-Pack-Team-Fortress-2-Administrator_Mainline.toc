@@ -1,4 +1,5 @@
-## Interface: 11507
+## Interface: 110105, 110107
+## X-Min-Interface: 70200
 ## Title:|cffffe00a<|r|cffff7d0aDBM Countdown|r|cffffe00a>|r |cff69ccf0 TF2 Administrator|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
