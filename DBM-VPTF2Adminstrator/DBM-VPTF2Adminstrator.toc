@@ -1,0 +1,20 @@
+## Interface: 120001
+## X-Min-Interface: 120001
+## Title:|cffffe00a<|r|cffff7d0aDBM Countdown|r|cffffe00a>|r |cff69ccf0 Team Fortress 2 Adminstrator|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Alniarez@Silvermoon-EU
+## Notes: Team Fortress 2 countdown.
+## Version: 1.5
+
+## DefaultState: enabled
+
+## IconTexture: Interface\Icons\Trade_archaeology_delicatemusicbox
+
+## Category: DBM
+
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Team Fortress 2 Adminstrator
+## X-DBM-Voice-ShortName: TF2Adminstrator
+## X-DBM-Voice-HasCount: 1
+## X-DBM-Voice-MidnightCompat: 1

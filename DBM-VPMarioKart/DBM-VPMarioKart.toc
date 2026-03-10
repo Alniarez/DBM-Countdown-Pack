@@ -1,0 +1,20 @@
+## Interface: 120001
+## X-Min-Interface: 120001
+## Title:|cffffe00a<|r|cffff7d0aDBM Countdown|r|cffffe00a>|r |cff69ccf0 Mario-Kart|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Alniarez@Silvermoon-EU
+## Notes: Mario Kart 64 countdown.
+## Version: 1.5
+
+## DefaultState: enabled
+
+## IconTexture: Interface\Icons\Trade_archaeology_delicatemusicbox
+
+## Category: DBM
+
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Mario Kart
+## X-DBM-Voice-ShortName: MarioKart
+## X-DBM-Voice-HasCount: 1
+## X-DBM-Voice-MidnightCompat: 1
