@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120005
 ## X-Min-Interface: 120001
 ## Title:|cffffe00a<|r|cffff7d0aDBM Countdown|r|cffffe00a>|r |cff69ccf0 Team Fortress 2 Adminstrator|r
 ## DefaultState: enabled
