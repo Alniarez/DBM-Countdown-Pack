@@ -1,7 +1,5 @@
-# DBM-Countdown-Pack
+# DBM Countdown Pack
 
-My DBM countdown plugging
+Countdown voices for DBM: Mario Kart 64 and the TF2 Administrator.
 
-Give me new countdown suggestion (Other games, famous events...)
-
-https://wow.curseforge.com/projects/dbm-countdown-pack-mario-kart
+Got an idea for a new countdown (other games, famous events...)? Let me know.
