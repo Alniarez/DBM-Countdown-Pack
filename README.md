@@ -1,6 +1,6 @@
 # DBM Countdown Pack
 
-Countdown voices for DBM: Mario Kart 64 and the TF2 Administrator. Pick one under Spoken Alerts in DBM's options. Requires DBM.
+Countdown voices for DBM: Mario Kart 64 and the TF2 Administrator. Pick one under Spoken Alerts in DBM's options. Requires DBM. Works on Retail and WoW Forever.
 
 Got an idea for a new countdown (other games, famous events...)? Let me know.
 
